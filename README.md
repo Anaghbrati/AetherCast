@@ -24,11 +24,11 @@ It fetches live weather data and displays temperature, humidity, and conditions 
 ## 📸 Screenshots
 
 ### 🌍 Desktop View
-![Desktop Screenshot](<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/9b764239-d587-4d7a-9cab-da4ad48bded1" />
+[Desktop Screenshot](<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/9b764239-d587-4d7a-9cab-da4ad48bded1" />
 )
 
 ### 📱 Mobile View
-![Mobile Screenshot](<img width="1179" height="2556" alt="IMG_4294" src="https://github.com/user-attachments/assets/17bcd939-e178-4f92-9c46-ad948875f832" />
+[Mobile Screenshot](<img width="1179" height="2556" alt="IMG_4294" src="https://github.com/user-attachments/assets/17bcd939-e178-4f92-9c46-ad948875f832" />
 )
 
 
