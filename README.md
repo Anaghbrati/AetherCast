@@ -7,7 +7,7 @@
 AetherCast is a responsive weather tracker app built with **React + Vite** and styled with **Material UI**.  
 It fetches live weather data and displays temperature, humidity, and conditions with a clean, modern UI.
 
-👉 **Live Demo**: [AetherCast on GitHub Pages]((https://anaghbrati.github.io/AetherCast/))
+👉 **Live Demo**: [AetherCast on GitHub Pages](https://anaghbrati.github.io/AetherCast/)
 
 ---
 
