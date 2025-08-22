@@ -72,7 +72,7 @@ export default function WeatherApp() {
 
   return (
     <div  style={{ textAlign: 'center'}}>
-        <h1 style={{color: 'black'}}>Weather Tracker</h1>
+        <h2 style={{color: 'black'}}>Weather Tracker</h2>
       <SearchBox updateInfo={updateInfo}/>
       <InfoBox info={weatherInfo}/>
     </div>
