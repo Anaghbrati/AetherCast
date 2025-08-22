@@ -131,5 +131,5 @@ Feel free to:
 - Submit pull requests  
 - Suggest new features  
 
-Check out [CONTRIBUTING.md](CONTRIBUTING_AetherCast.txt) for guidelines.
+Check out [CONTRIBUTING.md](CONTRIBUTING_AetherCast.md) for guidelines.
 
