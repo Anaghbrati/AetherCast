@@ -1,0 +1,10 @@
+.searchBox {
+    
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#city {
+    box-shadow: 0px 2px 5px rgb(8, 8, 8);
+    border-radius: 5px;
+}
