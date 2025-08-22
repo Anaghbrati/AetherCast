@@ -1,17 +1,17 @@
 # 🙌 Contributing to AetherCast
 
-Thanks for your interest in contributing to \*\*AetherCast\*\*! 🚀 We
-welcome all contributions, whether it\'s bug fixes, new features, or
+Thanks for your interest in contributing to **AetherCast**! 🚀 We
+welcome all contributions, whether it's bug fixes, new features, or
 improving documentation.
 
 ---
 
 ## 🛠 How to Contribute
 
-### 1. Fork the Repository Click the \*\*Fork\*\* button at the top
+### 1. Fork the Repository Click the **Fork** button at the top
 right of this repository.
 
-### 2. Clone Your Fork \`\`\`bash git clone
+### 2. Clone Your Fork ```bash git clone
 https://github.com/\<your-username\>/AetherCast.git cd AetherCast ```
 
 ### 3. Create a New Branch Use a descriptive name for your branch:
