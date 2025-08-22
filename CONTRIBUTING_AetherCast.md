@@ -1,0 +1,63 @@
+\# 🙌 Contributing to AetherCast
+
+Thanks for your interest in contributing to \*\*AetherCast\*\*! 🚀 We
+welcome all contributions, whether it\'s bug fixes, new features, or
+improving documentation.
+
+\-\--
+
+\## 🛠 How to Contribute
+
+\### 1. Fork the Repository Click the \*\*Fork\*\* button at the top
+right of this repository.
+
+\### 2. Clone Your Fork \`\`\`bash git clone
+https://github.com/\<your-username\>/AetherCast.git cd AetherCast \`\`\`
+
+\### 3. Create a New Branch Use a descriptive name for your branch:
+\`\`\`bash git checkout -b feature/your-feature-name \`\`\`
+
+\### 4. Make Changes - Follow the existing project structure.  - Use
+\*\*Material UI\*\* for UI consistency.  - Keep code clean and readable.
+
+\### 5. Test Your Changes Run the app locally to make sure everything
+works: \`\`\`bash npm run dev \`\`\`
+
+\### 6. Commit Changes Write meaningful commit messages: \`\`\`bash git
+commit -m \"Add: new weather forecast card\" \`\`\`
+
+\### 7. Push to Your Branch \`\`\`bash git push origin
+feature/your-feature-name \`\`\`
+
+\### 8. Open a Pull Request Submit a PR with a clear description of your
+changes.
+
+\-\--
+
+\## 📋 Contribution Guidelines
+
+✅ Keep your code clean and well-documented ✅ Use \*\*English\*\* for
+commit messages and comments ✅ Follow \*\*React best practices\*\*
+(functional components, hooks, etc.) ✅ One feature/fix per pull request
+✅ Always check your code with \`npm run dev\` before submitting
+
+\-\--
+
+\## 🐞 Reporting Issues
+
+If you find a bug or have a feature request: 1. Check if it's already
+reported in \[Issues\](../../issues). 2. If not, open a \*\*new
+issue\*\* and provide details:  - Steps to reproduce (for bugs)  -
+Expected behavior  - Screenshots (if applicable)
+
+\-\--
+
+\## 💡 Suggestions
+
+If you have ideas to improve the app: - Open a \*\*Discussion\*\* or
+\*\*Issue\*\*  - Or reach out with a PR!
+
+\-\--
+
+Thanks again for contributing ❤️ Together we make \*\*AetherCast\*\*
+better! 🌦️
